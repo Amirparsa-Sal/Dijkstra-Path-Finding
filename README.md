@@ -3,7 +3,7 @@ This is my final project of Data Structures and Algorithms course at AUT.
 
  I used Java for implementing Dijkstra algorithm on a directed graph with weighted edges and Python for visualizing the chosen path for each passenger.  It considers the real time traffic of streets and estimates transportation time for each transportation.
 
-![Capture](https://user-images.githubusercontent.com/60196448/109313437-78dd6900-785d-11eb-9fc2-23244cd8943a.JPG)
+![Capture](https://user-images.githubusercontent.com/60196448/109313860-ea1d1c00-785d-11eb-9752-a3e23b0fa916.JPG)
 
 # Compiling and Running With JDK
 
